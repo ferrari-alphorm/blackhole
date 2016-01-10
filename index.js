@@ -1,4 +1,5 @@
-var async = require("./libs/async.js");
+var async = require("async-ferrari");
+
 var request = require("./libs/request.js");
 
 var config = require("./config.json");

@@ -1,0 +1,27 @@
+{
+  "name": "Blackhole",
+  "version": "1.0.0",
+  "description": "Un script qui télécharge toutes les données contenues sur site Web pour les sauvegarder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferrari-alphorm/blackhole.git"
+  },
+  "keywords": [
+    "blackhole",
+    "alphorm",
+    "formation"
+  ],
+  "author": "Edouard FERRARI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferrari-alphorm/blackhole/issues"
+  },
+  "homepage": "https://github.com/ferrari-alphorm/blackhole",
+  "dependencies": {
+    "async-ferrari": "^1.0.0"
+  }
+}
